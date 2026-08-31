@@ -53,6 +53,20 @@ Proyectos académicos UPC sobre rutas de e-commerce y control de calidad en inye
 
 ---
 
+### Actividad
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fcarruitero24/fcarruitero24/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fcarruitero24/fcarruitero24/output/snake-light.svg" />
+    <img alt="La serpiente recorriendo mi grafico de contribuciones" src="https://raw.githubusercontent.com/fcarruitero24/fcarruitero24/output/snake-light.svg" />
+  </picture>
+</p>
+
+<p align="center"><sub>Se regenera sola cada dia con una GitHub Action de este repo (<code>.github/workflows/snake.yml</code>).</sub></p>
+
+---
+
 ### Formación
 
 **Universidad Peruana de Ciencias Aplicadas** — Ingeniería Industrial, 2023–presente · énfasis en Data, ML y BI.
