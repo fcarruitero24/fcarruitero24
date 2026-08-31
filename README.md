@@ -19,8 +19,6 @@
 
 Estudiante de Ingeniería Industrial en la UPC, orientado a datos. Vengo de procesos, así que no me interesa el modelo con el mejor score sino el que alguien puede usar: elijo el más simple cuando el empate es estadístico y lo dejo corriendo detrás de una API o un panel.
 
-Busco prácticas en **analítica de datos, inteligencia artificial o mejora de procesos**.
-
 ---
 
 ### Stack
