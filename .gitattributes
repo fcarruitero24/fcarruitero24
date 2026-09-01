@@ -1,0 +1,8 @@
+# Normaliza los finales de linea: LF en el repositorio, siempre.
+# Evita el aviso "LF will be replaced by CRLF" al commitear desde Windows.
+* text=auto eol=lf
+
+# Los binarios no se tocan.
+*.png binary
+*.jpg binary
+*.gif binary
