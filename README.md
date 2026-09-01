@@ -11,7 +11,7 @@
 
 ¡Hola! Soy estudiante de Ingeniería Industrial en la UPC, en Lima, y ando metido de lleno en ciencia de datos y machine learning.
 
-Aprendo haciendo, así que casi siempre estoy en algún programa de formación, hackathón o voluntariado — desde certificaciones de IBM hasta dar clases de inglés a adultos mayores. Me gusta que los proyectos no se queden en el notebook: que terminen en algo que alguien pueda abrir y usar.
+Aprendo haciendo, así que casi siempre ando en algún hackathón, programa de formación o voluntariado — el más reciente, un summit de IA acá en Lima. Me gusta que los proyectos no se queden en el notebook: que terminen en una API, un panel o un mapa que alguien pueda abrir y usar.
 
 ---
 
