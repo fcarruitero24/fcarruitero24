@@ -5,19 +5,13 @@
   <sub>Lima, Perú · <a href="https://linkedin.com/in/fabrizio-carruitero-27014a2ba">LinkedIn</a> · carruitero.fabrizio2404@gmail.com</sub>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/pipeline-light.svg" />
-    <img src="assets/pipeline-light.svg" width="820" alt="Pipeline end-to-end: Datos, Análisis, Modelo, Despliegue, Decisión" />
-  </picture>
-</p>
-
 ---
 
 ### Sobre mí
 
-Estudiante de Ingeniería Industrial en la UPC, orientado a datos. Vengo de procesos, así que no me interesa el modelo con el mejor score sino el que alguien puede usar: elijo el más simple cuando el empate es estadístico y lo dejo corriendo detrás de una API o un panel.
+¡Hola! Soy estudiante de Ingeniería Industrial en la UPC, en Lima, y ando metido de lleno en ciencia de datos y machine learning.
+
+Aprendo haciendo, así que casi siempre estoy en algún programa de formación, hackathón o voluntariado — desde certificaciones de IBM hasta dar clases de inglés a adultos mayores. Me gusta que los proyectos no se queden en el notebook: que terminen en algo que alguien pueda abrir y usar.
 
 ---
 
